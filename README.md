@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CGplays
+- 👋 Hi, I’m @real-cognitive
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning flutter as a primary programming language along with some ROBLOX game developement
 - 💞️ I’m looking to collaborate on nothing quite yet, but I would VERY much love to have a GFX editor
